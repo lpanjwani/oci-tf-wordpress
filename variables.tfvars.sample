@@ -1,0 +1,8 @@
+tenancy_ocid         = ""
+user_ocid            = ""
+compartment_ocid     = ""
+region               = "me-dubai-1"
+oci_private_key_path = ""
+ssh_private_key_path = ""
+ssh_public_key_path  = ""
+fingerprint          = ""
