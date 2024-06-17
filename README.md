@@ -48,7 +48,3 @@ terraform apply -var-file="variables.tfvars"
 ```sh
 terraform destroy -var-file="variables.tfvars"
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.txt file for details.
